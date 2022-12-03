@@ -1,5 +1,5 @@
 # RotaIdealEsquinas
-    Encontra a rota ideal em uma cidade
+Encontra a rota ideal em uma cidade, dado um arquivo no formato:
 
     destino
     nº de esquinas
